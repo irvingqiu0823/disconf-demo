@@ -1,0 +1,5 @@
+com/test/service/SimpleRedisService.class
+com/test/utils/JedisUtil.class
+com/test/demo/disconfDemoMain.class
+com/test/task/DisconfDemoTask.class
+com/test/config/JedisConfig.class
